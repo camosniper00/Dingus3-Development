@@ -1,0 +1,53 @@
+{
+    "GemListFormatVersion": 2,
+    "Gems": [
+        {
+            "Path": "Gems/AssetCollection_Woodland",
+            "Uuid": "225b596a091b4a9d81634a73c31aa6c6",
+            "Version": "1.0.0",
+            "_comment": "AssetCollection_Woodland"
+        },
+        {
+            "Path": "Gems/Clouds",
+            "Uuid": "4f293a6f11ab4cd7b9db3017d12b5eda",
+            "Version": "0.1.0",
+            "_comment": "Clouds"
+        },
+        {
+            "Path": "Gems/CameraFramework",
+            "Uuid": "54f2763fe191432fa681ce4a354eedf5",
+            "Version": "0.1.0",
+            "_comment": "CameraFramework"
+        },
+        {
+            "Path": "Gems/UiBasics",
+            "Uuid": "6bb61c9e547043f0afc5019d6d460b78",
+            "Version": "0.1.0",
+            "_comment": "UiBasics"
+        },
+        {
+            "Path": "Gems/Boids",
+            "Uuid": "97e596870cf645e184e43d5a5ccda857",
+            "Version": "0.1.0",
+            "_comment": "Boids"
+        },
+        {
+            "Path": "Gems/PhysicsEntities",
+            "Uuid": "99ea531451fc4f64a5a9fe8f385e8a76",
+            "Version": "0.1.0",
+            "_comment": "PhysicsEntities"
+        },
+        {
+            "Path": "Gems/Multiplayer",
+            "Uuid": "d3ed407a19bb4c0d92b7c4872313d600",
+            "Version": "0.1.0",
+            "_comment": "Multiplayer"
+        },
+        {
+            "Path": "Gems/UiDemo",
+            "Uuid": "f90e86a4975549aa9809dc4ebcb3bffb",
+            "Version": "0.1.0",
+            "_comment": "UiDemo"
+        }
+    ]
+}
